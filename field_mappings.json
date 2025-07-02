@@ -1,0 +1,12 @@
+{
+  "accounts": [
+    "Account A",
+    "Account B",
+    "Account C"
+  ],
+  "projects": [
+    "Project X",
+    "Project Y",
+    "Project Z"
+  ]
+}

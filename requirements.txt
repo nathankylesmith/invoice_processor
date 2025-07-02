@@ -1,0 +1,5 @@
+imapclient
+pyzmail
+pandas
+python-dotenv
+google-generativeai
